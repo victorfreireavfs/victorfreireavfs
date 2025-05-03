@@ -29,7 +29,7 @@
 
 ### 📌 Projetos em Destaque
 
-- [Calculadora de IMC](https://github.com/victorfreireavfs/projeto-imc)
+- [Calculadora de IMC](https://github.com/victorfreireavfs/projeto-calculadora-imc)
   - Aplicação que calcula o Índice de Massa Corporal (IMC) com base no peso e altura informados pelo usuário.
 
 - [Projeto The Last of Us](https://github.com/victorfreireavfs/projeto-the-last-of-us)
