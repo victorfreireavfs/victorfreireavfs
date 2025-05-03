@@ -42,7 +42,7 @@
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/victorfreireavfs)
+- [LinkedIn](https://www.linkedin.com/in/ant%C3%B4nio-victor-freire/)
 - [E-mail](mailto:victoravfs@gmail.com)
 
 ---
