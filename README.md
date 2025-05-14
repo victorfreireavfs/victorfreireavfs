@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de TI com foco em desenvolvimento backend.
 - 💻 Aprendendo JavaScript, Node.js, Express e MongoDB.
-- 📚 Atualmente estudando parte lógica do JS.
+- 📚 Atualmente estudando a parte lógica do JS.
 - 🎯 Buscando oportunidades para aplicar e aprimorar minhas habilidades em projetos reais.
 
 ---
