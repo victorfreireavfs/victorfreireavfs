@@ -31,6 +31,9 @@
 
 - [Calculadora de IMC](https://github.com/victorfreireavfs/projeto-calculadora-imc)
   - Aplicação que calcula o Índice de Massa Corporal (IMC) com base no peso e altura informados pelo usuário.
+  
+- [Projeto Cronômetro](https://github.com/victorfreireavfs/projeto-cronometro)
+  - Cronômetro interativo com modo-escuro, hora atual e links para redes soiciais.
 
 - [Projeto The Last of Us](https://github.com/victorfreireavfs/projeto-the-last-of-us)
   - Página temática inspirada no jogo The Last of Us, desenvolvida com HTML, CSS e JavaScript.
@@ -38,8 +41,6 @@
 - [Projeto Android](https://github.com/victorfreireavfs/projeto-android)
   - Site fictício de uma empresa de tecnologia, utilizando conceitos de design responsivo.
 
-- [Projeto Cronômetro](https://github.com/victorfreireavfs/projeto-cronometro)
-  - Cronômetro interativo com modo-escuro, hora atual e links para redes soiciais.
 
 ---
 
