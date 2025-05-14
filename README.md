@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de TI com foco em desenvolvimento backend.
 - 💻 Aprendendo JavaScript, Node.js, Express e MongoDB.
-- 📚 Atualmente estudando APIs RESTful e integração com bancos de dados.
+- 📚 Atualmente estudando parte lógica do JS.
 - 🎯 Buscando oportunidades para aplicar e aprimorar minhas habilidades em projetos reais.
 
 ---
@@ -38,12 +38,16 @@
 - [Projeto Android](https://github.com/victorfreireavfs/projeto-android)
   - Site fictício de uma empresa de tecnologia, utilizando conceitos de design responsivo.
 
+- [Projeto Cronômetro](https://github.com/victorfreireavfs/projeto-cronometro)
+  - Cronômetro interativo com modo-escuro, hora atual e links para redes soiciais.
+
 ---
 
 ### 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/ant%C3%B4nio-victor-freire/)
 - [E-mail](mailto:victoravfs@gmail.com)
+- [Instagram](https://www.instagram.com/victor.freire?igsh=emZsNDdkbjJ3eDQ5)
 
 ---
 
