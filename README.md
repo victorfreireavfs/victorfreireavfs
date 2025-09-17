@@ -8,10 +8,10 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Cursando ADS com foco em desenvolvimento Python.
-- 💻 Primeiros projetos desenvolvidos para rodar em terminal.
+- 🎓 Conhecimentos em HTML, CSS e JavaScript com projetos publicados.
+- 💻 Primeiros projetos desenvolvidos em Python para rodar em terminal.
 - 📚 Atualmente estudando lógica de programação e algoritmos.
-- 🎯 Buscando evoluindir para áreas de IA, automações e Data Science.
+- 🎯 Evoluindindo para áreas de IA, automações e Data Science.
 
 ---
 
