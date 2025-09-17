@@ -28,7 +28,7 @@
 
 ### 📌 Projetos em Destaque
 
-- [Projeto Cadastro de Funcionários](https://victorfreireavfs.github.io/projeto_cadastro_funcionarios/)
+- [Projeto Cadastro de Funcionários](https://github.com/victorfreireavfs/projeto_cadastro_funcionarios)
   - Simulação de um Sistema de Cadastro de Funcionários.
 
 - [Projeto Cronômetro](https://github.com/victorfreireavfs/projeto-cronometro)
@@ -50,8 +50,3 @@
 - [Instagram](https://www.instagram.com/victor.freire?igsh=emZsNDdkbjJ3eDQ5)
 
 ---
-
-## 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=victorfreireavfs&show_icons=true&theme=radical&cache_seconds=86400)
-
