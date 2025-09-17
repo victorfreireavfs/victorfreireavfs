@@ -53,7 +53,5 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=victorfreireavfs&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreireavfs&layout=compact&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com?user=victorfreireavfs&theme=radical&hide_border=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=victorfreireavfs&show_icons=true&theme=radical&cache_seconds=86400)
 
