@@ -28,6 +28,9 @@
 
 ### 📌 Projetos em Destaque
 
+- [Projeto Cadastro de Funcionários](https://victorfreireavfs.github.io/projeto_cadastro_funcionarios/)
+  - Simulação de um Sistema de Cadastro de Funcionários.
+
 - [Projeto Cronômetro](https://github.com/victorfreireavfs/projeto-cronometro)
   - Cronômetro interativo com modo-escuro, hora atual e links para redes soiciais.
 
@@ -48,6 +51,9 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=victorfreireavfs&show_icons=true&theme=radical)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=victorfreireavfs&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreireavfs&layout=compact&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com?user=victorfreireavfs&theme=radical&hide_border=true)
+
